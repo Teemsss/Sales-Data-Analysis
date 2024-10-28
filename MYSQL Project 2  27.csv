@@ -1,0 +1,21 @@
+Sale_ID;Sale_Date;Product_Name;Full_Name;Payment_Method;Quantity;Total_Amount
+3010;-2012;Oven;"Sophia Wright";"Debit Card";1;65000
+3015;-2012;Crocs;"Kevin Jackson";"Debit Card";5;100000
+3017;-2012;Mattress;"Mike Johnson";"Apple Pay";2;70000
+3002;-2020;Television;"Nicole Hall";Cash;3;240000
+3004;-2028;Laptop;"Kevin Jackson";Cash;2;140000
+3008;-2028;"Light Bulbs";"Kevin Jackson";"Credit Card";10;15000
+3014;-2028;Plates;"James Brown";"Bank Transfer";1;10000
+3019;-2030;Blanket;"Kevin Jackson";"Apple Pay";10;250000
+3005;-2032;Crocs;"James Brown";"Credit Card";3;60000
+3018;-2032;Ottoman;"Fatima Good";"Credit Card";4;90000
+3006;-2034;Blender;"Sophia Wright";"Bank Transfer";1;45000
+3009;-2034;"Tea Set";"James Brown";Cash;1;5000
+3020;-2035;"Air Conditioner";"Mike Johnson";"Bank Transfer";2;80000
+3013;-2041;Laptop;"Mike Johnson";"Debit Card";2;210000
+3016;-2041;Pillows;"Mike Johnson";Cash;2;10000
+3001;-2043;"Mixed Berries";"Zainab Mumu";Cash;4;50000
+3011;-2043;Pineapples;"Amy Thompson";"Apple Pay";4;24000
+3003;-2044;"Penne Pasta";"Fatima Good";"Bank Transfer";5;27000
+3007;-2044;"Wrting Materials";"Fatima Good";"Debit Card";5;10000
+3012;-2044;"Basmati Rice";"Fatima Good";"Credit Card";6;90000
